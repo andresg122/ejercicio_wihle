@@ -26,4 +26,4 @@ inicio
   esc "se ha alcanzado la meta "
 fin   
 ~~~
-  ![diagrama de flujo](https://ibb.co/8xdw0Tc)
+<a href="https://ibb.co/8xdw0Tc"><img src="https://i.ibb.co/8xdw0Tc/2f1f813c-94cd-4398-8aa0-5f5c11a5c2c7.jpg" alt="2f1f813c-94cd-4398-8aa0-5f5c11a5c2c7" border="0"></a>  
