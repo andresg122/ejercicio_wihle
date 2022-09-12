@@ -28,6 +28,6 @@ fin
 ~~~
  ### Diagrama de flojo 
  
- <a href="https://ibb.co/fGtT84Z"><img src="https://i.ibb.co/FqJdsgc/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/vw7T9wv"><img src="https://i.ibb.co/p0tMq0r/image.png" alt="image" border="0"></a>
  
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/fnFYhx1/image.png" alt="image" border="0"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/WchDLgQ/image.png" alt="image" border="0"></a>
